@@ -31,8 +31,6 @@ This project focuses on enforcing password security and managing account lockout
 
 ## Step-by-Step Walkthrough
 
----
-
 ### Lab Environment
 
 - **Platform:** Microsoft Azure
