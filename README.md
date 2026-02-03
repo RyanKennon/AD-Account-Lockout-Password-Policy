@@ -36,8 +36,9 @@ This project focuses on enforcing password security and managing account lockout
 - **Platform:** Microsoft Azure
 - **Domain Controller:** Windows Server 2022 Datacenter
 - **Client Machine:** Windows 10 Pro
-- [Setup an Active Directory Domain](https://github.com/RyanKennon/AD-Domain-Setup/blob/main/README.md)
-- [Setup Users in Active Directory](https://github.com/RyanKennon/AD-User-Creation-Access-Control/blob/main/README.md)
+- **Required Active Directory Setup:**
+  - [Active Directory: Domain Setup](https://github.com/RyanKennon/AD-Domain-Setup/blob/main/README.md)
+  - [Active Directory: User Creation & Access Control](https://github.com/RyanKennon/AD-User-Creation-Access-Control/blob/main/README.md)
 
 <p align="center">
   <img width="1875" height="559" alt="Untitled Diagram-Page-1 drawio" src="https://github.com/user-attachments/assets/b3bd63ba-c0ba-48da-af1d-63ac35e005d9" />
